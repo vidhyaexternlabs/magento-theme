@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<root>
+  <slider>
+    <item>
+      <slider_id><![CDATA[1]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_01]]></slider_identifier>
+      <slider_title><![CDATA[Digital 01 - Side show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"random","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"500","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-03 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[2]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_02]]></slider_identifier>
+      <slider_title><![CDATA[Digital 02 - Slide show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"random","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"500","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-03 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[3]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_04]]></slider_identifier>
+      <slider_title><![CDATA[Digital 04 - Slide show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"1","effect":"sliceUpDownLeft","slices":"12","boxCols":"8","boxRows":"4","animSpeed":"1000","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-14 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[4]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_03]]></slider_identifier>
+      <slider_title><![CDATA[Digital 03 - Side show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"random","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"500","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-05 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[5]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_05]]></slider_identifier>
+      <slider_title><![CDATA[Digital 05 - Slide show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"fade","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"500","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-14 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[6]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_digital_06]]></slider_identifier>
+      <slider_title><![CDATA[Digital 06 - Side show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"random","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"500","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-07 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[7]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_tool_01]]></slider_identifier>
+      <slider_title><![CDATA[Tool 01 - Slide show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"1","effect":"fade","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"1000","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-14 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slider_id><![CDATA[8]]></slider_id>
+      <slider_identifier><![CDATA[bluesky_dukamarket_tool_02]]></slider_identifier>
+      <slider_title><![CDATA[Tool 02 - Slide show]]></slider_title>
+      <slider_status><![CDATA[1]]></slider_status>
+      <slider_setting><![CDATA[{"fullwidth":"0","effect":"sliceDownLeft","slices":"15","boxCols":"8","boxRows":"4","animSpeed":"1000","pauseTime":"4000","startSlide":"1","directionNav":"false","controlNav":"true","controlNavThumbs":"false","pauseOnHover":"false","manualAdvance":"false","nextText":"Next","prevText":"Prev","randomStart":"false","progressBar":"false"}]]></slider_setting>
+      <created_at><![CDATA[2021-04-14 00:00:00]]></created_at>
+    </item>
+  </slider>
+  <slide>
+    <item>
+      <slide_id><![CDATA[1]]></slide_id>
+      <slider_id><![CDATA[1]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-home1.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/1/_/1_2.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Gaming Headset","display":"2","animated":"slideInDown","color":"#FFFFFF","customclass":""},{"text":"Brilliant Lighting Effect","display":"2","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"fadeIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"slideInUp","color":"#FFFFFF","customclass":"transparent hidden-l"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[2]]></slide_id>
+      <slider_id><![CDATA[1]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-home2.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/2/_/2_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Sport Edition","display":"2","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Best Choice Of Your","display":"2","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#FFFFFF","customclass":"transparent hidden-l"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[3]]></slide_id>
+      <slider_id><![CDATA[1]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-home3.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/3/_/3_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Sport Edition","display":"2","animated":"fadeInDown","color":"#FFFFFF","customclass":""},{"text":"Best Choice Of Your","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#FFFFFF","customclass":"transparent hidden-l"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[4]]></slide_id>
+      <slider_id><![CDATA[2]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h2-1.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/s/l/slide-show-h2-1-mobile_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"New arrivals","display":"5","animated":"slideInDown","color":"#222222","customclass":"has-bg"},{"text":"Gear 360","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":"light uppercase"},{"text":"wireless earbuds","display":"2","animated":"slideInRight","color":"#FFFFFF","customclass":"uppercase"},{"text":"Top Quality Earbuds & Accessories","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[5]]></slide_id>
+      <slider_id><![CDATA[2]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h2-2.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/s/l/slide-show-h2-2-mobile.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"HOT deal","display":"5","animated":"fadeInDown","color":"#222222","customclass":"has-bg"},{"text":"Limited","display":"2","animated":"fadeInUp","color":"#FFFFFF","customclass":"light"},{"text":"week deals","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":""},{"text":"Discount 20% On Products","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[6]]></slide_id>
+      <slider_id><![CDATA[2]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h2-3.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/s/l/slide-show-h2-3-mobile.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"slideInDown","color":"#222222","customclass":"has-bg"},{"text":"Big sale","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":"light"},{"text":"Top headphone","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Best Sport Edition 2022","display":"6","animated":"fadeIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[7]]></slide_id>
+      <slider_id><![CDATA[3]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-1_1.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-1.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"HOT deal","display":"5","animated":"fadeInUp","color":"#222222","customclass":"has-bg"},{"text":"sale 20% off","display":"2","animated":"fadeInUp","color":"#FFFFFF","customclass":"light"},{"text":"samsung galaxy buds","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Top Quality Earbuds & Accessories","display":"6","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInDown","color":"#222222","customclass":"hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[center_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[8]]></slide_id>
+      <slider_id><![CDATA[3]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-2_2.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-2.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"HOT deal","display":"5","animated":"fadeInLeft","color":"#222222","customclass":"has-bg"},{"text":"sale 30% off","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":"light"},{"text":"Futured Football Boots","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Discount 30% On Products & Free Shipping","display":"6","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInUp","color":"#222222","customclass":"hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[center_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[9]]></slide_id>
+      <slider_id><![CDATA[3]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-3_3.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-3.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"New arrivals","display":"5","animated":"fadeInUp","color":"#222222","customclass":"has-bg"},{"text":"sport edition","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":"light"},{"text":"Best Choice Of The Year","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Discount 20% On Products & Free Shipping","display":"6","animated":"fadeInTopLeft","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInBottomRight","color":"#222222","customclass":"hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[center_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[10]]></slide_id>
+      <slider_id><![CDATA[4]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/h/3/h3-slide1.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"HOT deal","display":"5","animated":"slideInUp","color":"#222222","customclass":"has-bg"},{"text":"Limited","display":"2","animated":"slideInRight","color":"#FFFFFF","customclass":"light"},{"text":"Hot week deals","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":""},{"text":"Discount 20% On Products","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[11]]></slide_id>
+      <slider_id><![CDATA[5]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-1_2.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-1_2.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Top sale","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":"light"},{"text":"Deals of the week","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInRight","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[12]]></slide_id>
+      <slider_id><![CDATA[5]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-2_3.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-2_2.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"PlayStation","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":"light"},{"text":"on your new PS5\u2122","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[13]]></slide_id>
+      <slider_id><![CDATA[5]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-3_4.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-3_2.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Earphones","display":"2","animated":"zoomIn","color":"#FFFFFF","customclass":"light"},{"text":"wireless earbuds","display":"2","animated":"zoomIn","color":"#FFFFFF","customclass":""},{"text":"Wireless Connection With TV, Computer, Laptop...","display":"6","animated":"zoomIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"has-bg hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[14]]></slide_id>
+      <slider_id><![CDATA[4]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/h/3/h3-slide2.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-2.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"HOT sale","display":"5","animated":"slideInDown","color":"#222222","customclass":"has-bg"},{"text":"Big sale","display":"2","animated":"slideInDown","color":"#FFFFFF","customclass":"light"},{"text":"Top Accessories","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Best Sport Edition 2022","display":"6","animated":"slideInLeft","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-09 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[15]]></slide_id>
+      <slider_id><![CDATA[4]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/h/3/h3-slide3.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-3.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Best Sport Edition 2022","display":"5","animated":"fadeIn","color":"#222222","customclass":"has-bg"},{"text":"Gear 360","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":"light"},{"text":"wireless earbuds","display":"2","animated":"slideInRight","color":"#FFFFFF","customclass":""},{"text":"Top Quality Earbuds & Accessories","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-09 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[16]]></slide_id>
+      <slider_id><![CDATA[6]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h6-1.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-2_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"slideInLeft","color":"#222222","customclass":"has-bg"},{"text":"Big sale","display":"2","animated":"slideInRight","color":"#FFFFFF","customclass":"light"},{"text":"Top Accessories","display":"2","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Best Sport Edition 2022","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-09 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[17]]></slide_id>
+      <slider_id><![CDATA[6]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h6-2.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-1_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[yes]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"slideInDown","color":"#222222","customclass":"has-bg"},{"text":"Limited","display":"2","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Hot week deals","display":"2","animated":"fadeIn","color":"#FFFFFF","customclass":""},{"text":"Discount 20% On Products","display":"6","animated":"fadeInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-09 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[18]]></slide_id>
+      <slider_id><![CDATA[6]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slide-h6-3.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/h/3/h3-slide-mobile-3_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"New arrivals","display":"5","animated":"slideInUp","color":"#222222","customclass":"has-bg"},{"text":"Gear 360","display":"2","animated":"fadeIn","color":"#FFFFFF","customclass":"light"},{"text":"wireless earbuds","display":"2","animated":"slideInLeft","color":"#FFFFFF","customclass":""},{"text":"Top Quality Earbuds & Accessories","display":"6","animated":"slideInUp","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-09 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[19]]></slide_id>
+      <slider_id><![CDATA[7]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-1_3.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-1_5.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInDown","color":"#FFFFFF","customclass":"has-bg"},{"text":"We Build","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Your Dream","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"zoomIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInUp","color":"#222222","customclass":"has-bg hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[20]]></slide_id>
+      <slider_id><![CDATA[7]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-2_4.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-2_5.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInUp","color":"#FFFFFF","customclass":"has-bg"},{"text":"BIG choice","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"hand drilling","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"fadeIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"has-bg hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[21]]></slide_id>
+      <slider_id><![CDATA[7]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-3_5.jpg]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-3_4.jpg]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInUp","color":"#FFFFFF","customclass":"has-bg"},{"text":"worker","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":" construction","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"zoomIn","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"zoomIn","color":"#222222","customclass":"has-bg hidden-sm"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[22]]></slide_id>
+      <slider_id><![CDATA[8]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-1.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-1_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInDown","color":"#FFFFFF","customclass":"has-bg"},{"text":"We Build","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Your Dream","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInUp","color":"#222222","customclass":"has-bg hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[23]]></slide_id>
+      <slider_id><![CDATA[8]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-02.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-2_1.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInLeft","color":"#FFFFFF","customclass":"has-bg"},{"text":"BIG choice","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"hand drilling","display":"2","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"fadeInLeft","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInLeft","color":"#222222","customclass":"has-bg hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+    <item>
+      <slide_id><![CDATA[24]]></slide_id>
+      <slider_id><![CDATA[8]]></slider_id>
+      <store_ids><![CDATA[["0"]]]></store_ids>
+      <slide_status><![CDATA[1]]></slide_status>
+      <slide_position><![CDATA[0]]></slide_position>
+      <slide_type><![CDATA[]]></slide_type>
+      <slide_video><![CDATA[]]></slide_video>
+      <slide_image><![CDATA[slidebanner/s/l/slider-3.png]]></slide_image>
+      <slide_image_mobile><![CDATA[slidebanner/m/o/mobile-3.png]]></slide_image_mobile>
+      <slide_link><![CDATA[shop.html]]></slide_link>
+      <opennewtab><![CDATA[no]]></opennewtab>
+      <slide_text><![CDATA[[{"text":"Hot Sale","display":"5","animated":"fadeInRight","color":"#FFFFFF","customclass":"has-bg"},{"text":"worker","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"construction","display":"2","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Hurry Up Don't Miss It! Before The Offer Ends","display":"6","animated":"fadeInRight","color":"#FFFFFF","customclass":""},{"text":"Discover Now","display":"7","animated":"fadeInRight","color":"#222222","customclass":"has-bg hidden-xs"}]]]></slide_text>
+      <text_position><![CDATA[left_center]]></text_position>
+      <text_animate><![CDATA[yes]]></text_animate>
+      <created_at><![CDATA[2021-04-17 00:00:00]]></created_at>
+    </item>
+  </slide>
+</root>

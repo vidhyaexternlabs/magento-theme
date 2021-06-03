@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<root>
+  <blocks>
+    <item>
+      <title><![CDATA[Default - Hotline header]]></title>
+      <identifier><![CDATA[default_hotline]]></identifier>
+      <content><![CDATA[<p>Need Help? <a title="+001 123 456 789" href="tel:+001123456789">+001 123 456 789</a></p>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Topbar menu]]></title>
+      <identifier><![CDATA[default_topbar_menu]]></identifier>
+      <content><![CDATA[<ul class="hozital-menu">
+<li><a title="Order Tracking" href="{{store url=''}}customer/account">My account</a></li>
+<li><a title="About Us" href="{{store url=''}}about-us/">About Us</a></li>
+<li><a title="Contact Us" href="{{store url=''}}contact/">Contact Us</a></li>
+<li><a title="FAQs" href="{{store url=''}}rokanfaq">FAQs</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Custom menu before]]></title>
+      <identifier><![CDATA[default_rokanthemes_custom_menu_before]]></identifier>
+      <content><![CDATA[<ul>
+<li class="ui-menu-item level0 classic "><a class="level-top" href="{{store url=''}}">Home</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Menu block after]]></title>
+      <identifier><![CDATA[default_rokanthemes_custom_menu]]></identifier>
+      <content><![CDATA[<ul>
+<li class="ui-menu-item level0  classic menu-item-has-children parent"><a class="level-top">Page</a>
+<div class="open-children-toggle">&nbsp;</div>
+<div class="level0 submenu">
+<div class="row">
+<ul class="subchildmenu ">
+<li class="ui-menu-item level2 "><a href="{{store url=''}}store-locator/">Store Locator</a></li>
+<li class="ui-menu-item level2 "><a href="{{store url=''}}rokanthemes-brand.html">Shop by brand</a></li>
+<li class="ui-menu-item level2 "><a href="{{store url=''}}rokanfaq">Faq</a></li>
+<li class="ui-menu-item level2 "><a href="{{store url=''}}404/">404 page</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ui-menu-item level0"><a class="level-top" href="{{store url=''}}blog/">Blog</a></li>
+<li class="ui-menu-item level0 classic "><a class="level-top" href="{{store url=''}}contact/">Contact us</a></li>
+<li class="ui-menu-item level0 classic "><a class="level-top" href="{{store url=''}}about-us/">About us</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Header static text]]></title>
+      <identifier><![CDATA[default_header_static_text]]></identifier>
+      <content><![CDATA[<p>Spend $120 more and get free shipping!</p>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default - Shipping support]]></title>
+      <identifier><![CDATA[default_shipping_support]]></identifier>
+      <content><![CDATA[<div class="shipping-support">
+<div class="row space-around">
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-shipping" aria-hidden="true"><span class="hidden">icon icon-tracking</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Free Delivery</h6>
+<p>For all orders over $120</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-payment" aria-hidden="true"><span class="hidden">icon icon-payment</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Safe Payment</h6>
+<p>If goods have problems</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-help-center" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">24/7 Help Center</h6>
+<p>24/7 Customer Support</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-confidence" aria-hidden="true"><span class="hidden">icon icon-friendly-services</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Return money</h6>
+<p>If goods have problems</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6 hidden-xl">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-friendly-services" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Friendly Services</h6>
+<p>30 day satisfaction</p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer customer care]]></title>
+      <identifier><![CDATA[default_footer_customer_care]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">Help & Customer Care</h4>
+<ul class="footer-contents">
+<li><a href="#">New Customers</a></li>
+<li><a href="#">How to use My Account</a></li>
+<li><a href="#">Placing an Order</a></li>
+<li><a href="#">Payment Methods</a></li>
+<li><a href="#">Payment Methods</a></li>
+<li><a href="#">Problems with your Order</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer my account]]></title>
+      <identifier><![CDATA[default_footer_myaccount]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">My Account</h4>
+<ul class="footer-contents">
+<li><a href="#">Product Support</a></li>
+<li><a href="#">Checkout</a></li>
+<li><a href="#">Shopping Cart</a></li>
+<li><a href="#">Wishlist</a></li>
+<li><a href="#">Custom Link</a></li>
+<li><a href="#">Redeem Voucher</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer quick link]]></title>
+      <identifier><![CDATA[default_footer_quicklink]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">Quick Links</h4>
+<ul class="footer-contents">
+<li><a href="#">Store Location</a></li>
+<li><a href="#">My Account</a></li>
+<li><a href="#">Orders Tracking</a></li>
+<li><a href="#">FAQs</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer customer service]]></title>
+      <identifier><![CDATA[default_footer_customer_service]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">Customer Service</h4>
+<ul class="footer-contents">
+<li><a href="#">Help Center</a></li>
+<li><a href="#">Contact Us</a></li>
+<li><a href="#">Report Abuse</a></li>
+<li><a href="#">Submit a Dispute</a></li>
+<li><a href="#">Policies & Rules</a></li>
+<li><a href="#">Online Returns Policy</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer Newsletter]]></title>
+      <identifier><![CDATA[default_footer_subscriber]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">Sign Up To Newsletter</h4>
+<div class="footer-contents">{{block class="Magento\Newsletter\Block\Subscribe" template="Magento_Newsletter::subscribe.phtml"}}
+<p style="color: #666;" class="margin_0">By providing your email address, you agree to our<br><a title="Privacy Policy" href="#"><span style="text-decoration: underline;"><em>Privacy Policy</em></span></a> and <a title="Terms of Service." href="#"><span style="text-decoration: underline;"><em>Terms of Service.</em></span></a></p>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer bottom menu]]></title>
+      <identifier><![CDATA[default_footer_bottom_link]]></identifier>
+      <content><![CDATA[<ul>
+<li><a href="#">About us</a></li>
+<li><a href="#">Customer</a></li>
+<li><a href="#">Service</a></li>
+<li><a href="#">Privacy policy</a></li>
+<li><a href="#">Site map</a></li>
+<li><a href="#">Advanced search</a></li>
+<li><a href="#">Contact us</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer payment]]></title>
+      <identifier><![CDATA[default_footer_payment]]></identifier>
+      <content><![CDATA[<p><img src="{{media url=&quot;wysiwyg/payment.png&quot;}}" alt="Payment method"></p>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default - Contact us addition]]></title>
+      <identifier><![CDATA[default_contact_additional]]></identifier>
+      <content><![CDATA[<div class="container-min">
+<p class="margin_0" style="text-align: center;">Hi, friends!</p>
+<h1 class="regular size-60" style="text-align: center;">Contact Us</h1>
+<p style="text-align: center;">The most important part of improving at photography has been sharing it. Sign up for an Exposure account,<br>or post regularly to Tumblr, or both. Tell people you’re trying to get better at photography. When you talk about it, other <br>people get excited about it. There are few plugins and apps available for this purpose.</p>
+</div>
+<section class="full-width"><img style="display: block; margin-left: auto; margin-right: auto;" src="{{media url="wysiwyg/cotact-banner.jpg"}}" alt=""></section>
+<section>
+<div class="container-min">
+<h4 class="size-14 color_primary uppercase" style="text-align: center; margin-bottom: 1.5rem;">Contact Us</h4>
+<h3 class="size-36 margin_0" style="text-align: center;"><span class="regular">Hello, We are Dukamarket.</span></h3>
+<h3 class="size-36" style="text-align: center;">Contact Us For Any Questions</h3>
+<p style="text-align: center;">The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit in vulputate velit<br>esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography has been sharing it. <br>Sign up for an Exposure account, or post regularly to Tumblr, or both.</p>
+<div class="our-store">
+<div class="store-list owl-carousel owl-theme" data-items="4" data-bigdesktop="4" data-smalldesktop="3" data-bigtablet="3" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="30" data-dots="false" data-autoplay="true" data-speed="500">
+<div class="col-content">
+<div class="store-picture"><img src="{{media url="wysiwyg/contact-us-1.jpg"}}" alt=""></div>
+<div class="store-info">
+<div class="company flex-layout center_vertical">
+<div class="col-img"><img src="{{media url="wysiwyg/flag1.png"}}" alt=""></div>
+<div class="col-content">
+<p class="size-12 grey margin_0" style="line-height: 1.5;">Dukanmarekt Digital Store</p>
+<h4 class="margin_0 size-14">FRANCE</h4>
+</div>
+<hr></div>
+</div>
+<div class="store-address">
+<p class="margin_0">Add: S9 Heaven Stress, Beverly Hill, USA.</p>
+<p class="margin_0">Phone: +1 (800) 123 456 789</p>
+<p class="margin_0">Email: Contact@erentheme.com</p>
+</div>
+</div>
+<div class="col-content">
+<div class="store-picture"><img src="{{media url="wysiwyg/contact-us-2.jpg"}}" alt=""></div>
+<div class="store-info">
+<div class="company flex-layout center_vertical">
+<div class="col-img"><img src="{{media url="wysiwyg/flag2.png"}}" alt=""></div>
+<div class="col-content">
+<p class="size-12 grey margin_0" style="line-height: 1.5;">Dukanmarekt Digital Store</p>
+<h4 class="margin_0 size-14">FRANCE</h4>
+</div>
+<hr></div>
+</div>
+<div class="store-address">
+<p class="margin_0">Add: S9 Heaven Stress, Beverly Hill, USA.</p>
+<p class="margin_0">Phone: +1 (800) 123 456 789</p>
+<p class="margin_0">Email: Contact@erentheme.com</p>
+</div>
+</div>
+<div class="col-content">
+<div class="store-picture"><img src="{{media url="wysiwyg/contact-us-3.jpg"}}" alt=""></div>
+<div class="store-info">
+<div class="company flex-layout center_vertical">
+<div class="col-img"><img src="{{media url="wysiwyg/flag3.png"}}" alt=""></div>
+<div class="col-content">
+<p class="size-12 grey margin_0" style="line-height: 1.5;">Dukanmarekt Digital Store</p>
+<h4 class="margin_0 size-14">FRANCE</h4>
+</div>
+<hr></div>
+</div>
+<div class="store-address">
+<p class="margin_0">Add: S9 Heaven Stress, Beverly Hill, USA.</p>
+<p class="margin_0">Phone: +1 (800) 123 456 789</p>
+<p class="margin_0">Email: Contact@erentheme.com</p>
+</div>
+</div>
+<div class="col-content">
+<div class="store-picture"><img src="{{media url="wysiwyg/contact-us-4.jpg"}}" alt=""></div>
+<div class="store-info">
+<div class="company flex-layout center_vertical">
+<div class="col-img"><img src="{{media url="wysiwyg/flag4.png"}}" alt=""></div>
+<div class="col-content">
+<p class="size-12 grey margin_0" style="line-height: 1.5;">Dukanmarekt Digital Store</p>
+<h4 class="margin_0 size-14">FRANCE</h4>
+</div>
+<hr></div>
+</div>
+<div class="store-address">
+<p class="margin_0">Add: S9 Heaven Stress, Beverly Hill, USA.</p>
+<p class="margin_0">Phone: +1 (800) 123 456 789</p>
+<p class="margin_0">Email: Contact@erentheme.com</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="full-width"><iframe src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=13&amp;output=embed&amp;iwloc=near" width="100%" height="500" frameborder="0" marginwidth="0" scrolling="no" aria-label="London Eye, London, United Kingdom"></iframe></section>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default - Cms beside contact form]]></title>
+      <identifier><![CDATA[default_cms_beside_form]]></identifier>
+      <content><![CDATA[<p class="size-18">Information Questions</p>
+<h2>Prequently asked questions</h2>
+<div class="panel-group">
+<div class="panel">
+<div class="panel-heading">
+<h5>Will I receive the same product that I see in the picture?</h5>
+</div>
+<div class="panel-collapse collapse">
+<p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p>
+<p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h5>Where can i view my sales receipt?</h5>
+</div>
+<div class="panel-collapse collapse">
+<p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p>
+<p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h5>How can I return an items?</h5>
+</div>
+<div class="panel-collapse collapse">
+<p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p>
+<p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h5>Will you restock items indicated as “out of stock?”</h5>
+</div>
+<div class="panel-collapse collapse">
+<p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p>
+<p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+</div>
+</div>
+<div class="panel">
+<div class="panel-heading">
+<h5>Where can I ship my order?</h5>
+</div>
+<div class="panel-collapse collapse">
+<p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p>
+<p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_01_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="2" data-bigtablet="2" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="20" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="true">
+<div class="col-banner absolute-content-image left center left center shadow radius">
+<div class="banner-img right  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-5.png"}}" alt="banner-5"></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Microsoft</span><br><span style="color: #ffffff;">Surface Laptop 14” </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -30%</span></p>
+</div>
+</div>
+<div class="col-banner absolute-content-image left center middle shadow radius">
+<div class="banner-img right  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-6.png"}}" alt="banner-6"></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Cameras </span><br><span style="color: #ffffff;">Best Sport Edition </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -20%</span></p>
+</div>
+</div>
+<div class="col-banner absolute-content-image left center middle shadow radius">
+<div class="banner-img right  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-7.png"}}" alt="banner-7"></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Sneaker </span><br><span style="color: #ffffff;">Nike Air Max 90 </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -60%</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 01 - Banner top (beside slide show)]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_01_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section row">
+<div class="col-md-6">
+<div class="col-banner absolute-content-image left center shadow radius">
+<div class="banner-img  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner1.png"}}" alt="banner1"></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Canyon</span><br><span style="color: #ffffff;">Star Raider</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Headphone &amp; Audio</span></p>
+</div>
+</div>
+<div class="col-banner absolute-content-image left center middle shadow radius">
+<div class="banner-img  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner3.png"}}" alt="banner3"></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Galaxy </span><br><span style="color: #ffffff;">Buds Plus</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Wireless Earbuds</span></p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="col-banner absolute-content-image left center middle shadow radius">
+<div class="banner-img  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner2.png"}}" alt="banner2"></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Phone</span><br><span style="color: #ffffff;">Galaxy S20</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Cellphone &amp; Tablets</span></p>
+</div>
+</div>
+<div class="col-banner absolute-content-image left center middle shadow radius">
+<div class="banner-img  no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner4.png"}}" alt="banner4"></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Chair </span><br><span style="color: #ffffff;">Swoon Lounge</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Decor &amp; Furniture</span></p>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default -  autoplay text]]></title>
+      <identifier><![CDATA[default_autoplay_text]]></identifier>
+      <content><![CDATA[<div class="section auto-play" style="text-align: center;">
+<div class="notification-text flex-layout no-wrap"><span style="color: #fff; white-space: nowrap;">Free UK delivery - Return over $100.00 ( Excluding Homeware ) | Free UK Collect From Store</span> <span style="color: #fff; white-space: nowrap;">Design Week / 15% Off the website / Code: AYOSALE-2020</span> <span style="color: #fff; white-space: nowrap;">Orders shipping as usual. See more: COVID-19 FAQ</span> <span style="color: #fff; white-space: nowrap;">Always iconic. Now organic. Introducing the $20 Organic Tee.</span> <span style="color: #fff; white-space: nowrap;">With each receipt over $150 from AYO Store get voucher 15% off immediately.</span></div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 02 - banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_02_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="3" data-bigtablet="3" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-dots="true" data-autoplay="false"  data-mousedrag="false" data-touchdrag="true">
+<div class="col-banner left center left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-h2-1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">On-sale</span><br><span style="color: #ffffff;">Best Prices Headphone </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Limited Time: Online Only!</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-h2-2.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Hot Sale </span><br><span style="color: #ffffff;">Super Laptops 2022 </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Free Shipping All Order</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-h2-3.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Intelligent</span><br><span style="color: #ffffff;">New Touch Control</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default - Footer about store]]></title>
+      <identifier><![CDATA[default_footer_about_store]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">About The Store</h4>
+<div class="footer-contents">
+<p>Our mission statement is to provide the absolute best<br>customer experience available in the Electronic industry<br>without exception.</p>
+<div class="flex-layout">
+<div class="image_hotline color_primary"><em class="icon icon-earphones" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em></div>
+<div class="wrap">
+<p class="margin_0">Got Question? Call us 24/7!</p>
+<h2 class="margin_0 size-24 regular color_primary">+001 123 456 789</h2>
+</div>
+</div>
+<p class="margin_0">Add: Walls Street 68, Mahattan, New York, USA</p>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 02, 04 - Banner top (beside slide show)]]></title>
+      <identifier><![CDATA[default_digital_02_04_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section row">
+<div class="col-lg-6 col-md-6 d-none d-lg-block">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-h2-4-1.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">New Style</span><br><span style="color: #ffffff;">Bluetooh Speaker </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Free Shipping 20km</span></p>
+</div>
+</div>
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-h2-4-2.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Limited</span><br><span style="color: #ffffff;">Top Camera </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Top Quality Products</span></p>
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-12">
+<div class="col-banner space-between center middle shadow radius absolute-content-image" style="height: 100%; background: #21b792;">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-h2-4-3.jpg"}}" alt=""></div>
+<div class="content space-between">
+<div class="content-top" style="text-align: center;">
+<h6 class="has-bg uppercase" style="text-align: center;">Hot Sale</h6>
+<p class="size-18 get-size-vw margin_0" style="text-align: center;"><span style="color: #ffffff;">Xbox Wireless</span></p>
+<h3 class="size-26 regular get-size-vw margin_0" style="text-align: center;"><a href="#"><span style="color: #ffffff;">Sale Up To 50% Off</span></a></h3>
+</div>
+<div class="button-wrap"><a class="btn transparent small" style="color: #ffffff;" title="shop now" href="#">SHOP NOW</a></div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default Digital 04 - 05 - 06 Shipping support]]></title>
+      <identifier><![CDATA[default_digital_04_05_06_shipping_support]]></identifier>
+      <content><![CDATA[<div class="shipping-support">
+<div class="row space-between">
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-shipping" aria-hidden="true"><span class="hidden">icon icon-tracking</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Free Delivery</h6>
+<p>For all orders over $120</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-payment" aria-hidden="true"><span class="hidden">icon icon-payment</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Safe Payment</h6>
+<p>100% secure payment</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-help-center" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">24/7 Help Center</h6>
+<p>Dedicated 24/7 support</p>
+</div>
+</div>
+</div>
+<div class="col-auto col-lg-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-confidence" aria-hidden="true"><span class="hidden">icon icon-friendly-services</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Friendly Services</h6>
+<p>30 days you are satisfied</p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 04 - banner top]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_04_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle banner-top owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="2" data-bigtablet="2" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="false">
+<div class="col-banner left center left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Intelligent</span><br><span style="color: #ffffff;">New Touch Control</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-2.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">On-sale</span><br><span style="color: #ffffff;">Best Prices Headphone </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Limited Time: Online Only!</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-3.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Hot Sale </span><br><span style="color: #ffffff;">Super Laptops 2022 </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Free Shipping All Order</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 04 - banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_04_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="2" data-bigdesktop="2" data-smalldesktop="2" data-bigtablet="2" data-tablet="1" data-smalltablet="1" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="false">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-1.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #ffc000;">Bestseller Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">PC &amp; Docking Station</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% Off, Top Quality Products</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-2.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #ffc000;">Featured Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Accessories iPhone</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Free Shipping All Order Over $99</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 04 - banner bottom]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_04_banner_bottom]]></identifier>
+      <content><![CDATA[<div class="grid-banner-bottom banner">
+<div class="col-banner top absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-bottom-1.png"}}" alt=""></div>
+<div class="content" style="text-align: center;">
+<h6 class="has-bg uppercase">HOT deal</h6>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Sale 30% Off</span><br><span style="color: #ffffff;">Top Computer Case Gaming </span></a></h3>
+</div>
+</div>
+<div class="hidden-l">
+<div class="col-banner margin-bottom center absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-bottom-2.png"}}" alt=""></div>
+<div class="content" style="text-align: center;">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Electronic Deals </span></a></h3>
+<p class="size-16" style="margin-top: 0; margin-bottom: 4rem;"><span style="color: #ffffff;">Laptop, Computer, Smartphone, Gampad</span></p>
+<a class="btn small" title="Shop Deals" href="#">Shop Deals</a></div>
+</div>
+<div class="col-banner center left absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-bottom-3.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Hot Products</span><br><span style="color: #ffffff;">Laptop Ultra 4K 16”</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+</div>
+<div class="col-banner top absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-bottom-4.png"}}" alt=""></div>
+<div class="content" style="text-align: center;">
+<h6 class="has-bg uppercase" style="text-align: center;">New arivals</h6>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Sport Edition</span><br><span style="color: #ffffff;">Best Choice Of The Year</span></a></h3>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 04 Footer Top]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_04_footer_top]]></identifier>
+      <content><![CDATA[<div class="flex-layout">
+<div class="col-lg-4 col-md-6 footer-links">
+<h4 class="footer-title">Follow Us</h4>
+<div class="footer-contents">
+<p class="margin_0">We make consolidating, marketing and tracking your social<br>media website easy.</p>
+{{widget type="Magento\Cms\Block\Widget\Block" template="widget/static_block/default.phtml" block_id="default_social_link"}}</div>
+</div>
+<div class="col-lg-4 col-md-6 footer-links">
+<h4 class="footer-title">Sign Up To Newsletter</h4>
+<div class="footer-contents">{{block class="Magento\Newsletter\Block\Subscribe" template="Magento_Newsletter::subscribe.phtml"}}</div>
+</div>
+<div class="col-lg-4 col-md-6 footer-links">
+<h4 class="footer-title">Download App</h4>
+<div class="footer-contents">
+<p class="margin_0">Dukamarket App is now available on App Store &amp; Google Play. <br>Get it now.</p>
+<div class="flex-layout download-app"><a href="#"><img style="margin-right: 20px;" src="{{media url="wysiwyg/app-1.png"}}" alt="app1"></a><a href="#"><img src="{{media url="wysiwyg/app-2.png"}}" alt="app2"></a></div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 03 - banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_03_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle margin_0">
+<div class="row row-10">
+<div class="col-md-8 col-lg-6 col-10-padding">
+<div class="row row-10">
+<div class="col-sm-6 col-10-padding">
+<div class="col-banner bottom center radius as-desktop  absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-1.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding light small" title="shop now" href="shop">Cameras</a></div>
+</div>
+</div>
+<div class="col-banner  bottom center radius  as-desktop  absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-2.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding light small" title="shop now" href="shop">Accessories</a></div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-10-padding">
+<div class="col-banner bottom center radius  as-desktop  absolute-content-image" style="background: #afafaf; height: 100%;">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-3.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding light small" title="shop now" href="shop">Keyboard &amp; accessories</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-lg-6 d-none d-md-block col-10-padding">
+<div class="row row-10">
+<div class="col-12 col-lg-6 col-10-padding">
+<div class="col-banner bottom center radius as-desktop absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-4.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding  light small" title="shop now" href="shop">Smartphone</a></div>
+</div>
+</div>
+<div class="col-banner bottom center radius  as-desktop absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-5.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding light small" title="shop now" href="shop">Speaker &amp; audio</a></div>
+</div>
+</div>
+</div>
+<div class="col-sm-6  d-none d-lg-block col-10-padding">
+<div class="col-banner bottom center radius  as-desktop absolute-content-image" style="background: #201f25; height: 100%;">
+<div class="banner-img"><img src="{{media url="wysiwyg/h3-category-6.png"}}" alt=""></div>
+<div class="content">
+<div class="button-wrap"><a class="btn auto_padding light small" title="shop now" href="shop">Gamepad and controller</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 03 - banner bottom]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_03_banner_bottom]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="2" data-bigtablet="2" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="20" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="true">
+<div class="col-banner left center left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h3-banner-middle-1.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 regular  margin_0"><a href="#"><span style="color: #ffc000;">Top Sale Products</span></a></p>
+<p class="size-24  margin_0"><span style="color: #ffffff;">Top Super Laptop 2022</span></p>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h3-banner-middle-2.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 regular  margin_0"><a href="#"><span style="color: #ffc000;">Top Sale Products</span></a></p>
+<p class="size-24  margin_0"><span style="color: #ffffff;">Top Super Laptop 2022</span></p>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h3-banner-middle-3.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 regular  margin_0"><a href="#"><span style="color: #ffc000;">Top Sale Products</span></a></p>
+<p class="size-24  margin_0"><span style="color: #ffffff;">Top Super Laptop 2022</span></p>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Default Menu Link Bottom Footer]]></title>
+      <identifier><![CDATA[default_menu_link_bottom_footer]]></identifier>
+      <content><![CDATA[<ul>
+<li><a href="#">Online Shopping</a></li>
+<li><a href="#">Promotions</a></li>
+<li><a href="#">My Orders</a></li>
+<li><a href="#">Help</a></li>
+<li><a href="#">Customer Service</a></li>
+<li><a href="#">Support</a></li>
+<li><a href="#">New Arrivals</a></li>
+<li><a href="#">Customer Service</a></li>
+<li><a href="#">Special Products</a></li>
+<li><a href="#">Manufacturers</a></li>
+</ul>
+<ul>
+<li><a href="#">Our Stores</a></li>
+<li><a href="#">Shipping</a></li>
+<li><a href="#">Payments</a></li>
+<li><a href="#">Checkout</a></li>
+<li><a href="#">Discount</a></li>
+<li><a href="#">Terms &amp; Conditions</a></li>
+<li><a href="#">Policy Shipping</a></li>
+<li><a href="#">Returns</a></li>
+<li><a href="#">Refunds</a></li>
+</ul>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 05 - banner top]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_05_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-1.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">New Style </span><br><span style="color: #ffffff;">Bluetooh Speaker </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">New Trending Design</span></p>
+</div>
+</div>
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-2.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Limited</span><br><span style="color: #ffffff;">Super Laptops </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Discount 30% On Products</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 05 - banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_05_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="2" data-bigdesktop="2" data-smalldesktop="2" data-bigtablet="2" data-tablet="1" data-smalltablet="1" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="true">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-1.jpg"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #ffc000;">Bestseller Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Bang &amp; Olufsen Beoplay</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Top Quality Products</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/banner-middle-2.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #ffc000;">Featured Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Accessories iPhone</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Free Shipping All Order Over $99</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 05 - Owl Category]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_05_owl_category]]></identifier>
+      <content><![CDATA[<div class="banner-category section banner-middle owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="3" data-bigtablet="3" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="true">
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-1.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Computer &amp; Laptop</p>
+<p class="margin_0">Discount 30% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-2.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Furniture &amp; Decor</p>
+<p class="margin_0">Discount 20% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-3.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Headphone &amp; Audio</p>
+<p class="margin_0">Discount 25% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-1.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Computer &amp; Laptop</p>
+<p class="margin_0">Discount 30% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-2.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Furniture &amp; Decor</p>
+<p class="margin_0">Discount 20% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+<div class="item col-banner">
+<div class="banner-img default-banner-image"><img src="{{media url="wysiwyg/cate-3.jpg"}}" alt=""></div>
+<div class="content">
+<div class="content-left">
+<p class="size-16 margin_0">Headphone &amp; Audio</p>
+<p class="margin_0">Discount 25% on products.</p>
+</div>
+<div class="content-right"><a class="button btn" href="#">Shop Now</a></div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 06 - Banner top (beside slide show)]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_06_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section row row-10">
+<div class="col-md-12 col-10-padding">
+<div class="col-banner left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-top-1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">New Style</span><br><span style="color: #ffffff;">Bluetooh Speaker</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Free Shipping 20km</span></p>
+</div>
+</div>
+<div class="col-banner left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-top-2.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Hot Sale</span><br><span style="color: #ffffff;">Super Laptops</span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Top Quality Products</span></p>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 06 - banner middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_06_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="3" data-bigtablet="3" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="20" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="false">
+<div class="col-banner left center left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-mid-1.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 margin_0"><span style="color: #ffffff;">Top Ranking Products</span></p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Keyboard &amp; Accessories</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Get Everything You Need</span></p>
+</div>
+</div>
+<div class="col-banner center center middle shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-mid-2.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 margin_0" style="text-align: center;"><span style="color: #ffffff;">Flash Sale</span></p>
+<h3 class="size-24 regular" style="text-align: center;"><a href="#"><span style="color: #ffffff;">Black Friday Sale</span></a></h3>
+<p class="size-16" style="text-align: center;"><span style="color: #ffffff;">Laptop, Computer, Smartphone</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-mid-3.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 margin_0"><span style="color: #ffc000;">Weekly Deals</span></p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Camera &amp; Photos</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Limited Time: Online Only!</span></p>
+</div>
+</div>
+</div>
+<div class="d-none d-xl-block">
+<div class="banner section banner-middle row row-10">
+<div class="col-md-6 col-10-padding">
+<div class="col-banner left center left center shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-mid-4.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 margin_0"><span style="color: #ffc000;">Top Sale Products</span></p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Top Super Laptop 2022</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Discount 20% On Products</span></p>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-10-padding">
+<div class="col-banner left center middle shadow radius  absolute-content-image">
+<div class="banner-img no-animation hover-light-effect"><img src="{{media url="wysiwyg/h6-banner-mid-5.png"}}" alt=""></div>
+<div class="content">
+<p class="size-16 margin_0"><span style="color: #ffc000;">Bestseller Products</span></p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Bang &amp; Olufsen Beoplay</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Bang &amp; Olufsen Beoplay</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Digital 06 - Header static text]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_digital_06_header_static_text]]></identifier>
+      <content><![CDATA[<p class="uppercase"><strong style="color: #fdc801;">Limited Time Offer !</strong></p>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 01 - banner top]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_01_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section banner-top owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="2" data-bigtablet="2" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="false">
+<div class="col-banner left center left center shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-1_1.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Big Sale</span><br><span style="color: #ffffff;">Drilling Machine</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -30%</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img "><img src="{{media url="wysiwyg/banner-2_1.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Big Sale</span><br><span style="color: #ffffff;">Hand Grinder </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -60%</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-3.jpg"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Sale All </span><br><span style="color: #ffffff;">Contractor Tools </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Up To -20%</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 01 Banner Product left]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_01_banner_product_left]]></identifier>
+      <content><![CDATA[<div class="banner section">
+<div class="col-banner left bottom shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-product-1.jpg"}}" alt=""></div>
+<div class="content">
+<h6 class="has-bg uppercase">hot sale</h6>
+<h3 class="size-28 regular get-size-vw uppercase"><a href="#"><span style="color: #ffffff;">Drilling </span><br><span style="color: #ffffff;">Rotary hammers </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Up to -20% with the code: <span style="color: #fdbe01;">DUKA-SALE20 </span></span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 01 Banner Product Right]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_01_banner_product_right]]></identifier>
+      <content><![CDATA[<div class="banner section">
+<div class="col-banner right bottom shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-product-1.jpg"}}" alt=""></div>
+<div class="content">
+<h6 class="has-bg uppercase">hot sale</h6>
+<h3 class="size-28 regular get-size-vw uppercase"><a href="#"><span style="color: #ffffff;">Drilling </span><br><span style="color: #ffffff;">Rotary hammers </span></a></h3>
+<p class="size-16 get-size-vw"><span style="color: #ffffff;">Up to -30% with the code: <span style="color: #fdbe01;">DUKA-SALE30 </span></span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 01 Banner Middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_01_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-middle owl-carousel owl-theme" data-items="2" data-bigdesktop="2" data-smalldesktop="2" data-bigtablet="2" data-tablet="1" data-smalltablet="1" data-mobile="1" data-margin="30" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="true">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-bottom-1.jpg"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #fff;">Featured Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Worker's Accessories 2022</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Free Shipping All Order</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-bottom-2.jpg"}}" alt=""></div>
+<div class="content">
+<p class="size-16" style="color: #fff;">Best Products</p>
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Grinding Machines Cars</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Sale Up To 20% Off All in Store</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 02 Shipping Footer]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_02_shipping_footer]]></identifier>
+      <content><![CDATA[<div class="shipping-support">
+<div class="flex-layout space-between">
+<div class="col-xl-3 col-6 first-contact">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-earphones" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em>
+<div class="content">
+<p class="margin_0 hidden-xs" style="color: #ffa7a7;">Got Question? Call us 24/7!</p>
+<h2 class="margin_0 size-24 regular" style="color: #ffffff;">+001 123 456 789</h2>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-shipping" aria-hidden="true"><span class="hidden">icon icon-tracking</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Free Delivery</h6>
+<p>For all orders over $120</p>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-payment" aria-hidden="true"><span class="hidden">icon icon-payment</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">Safe Payment</h6>
+<p>100% secure payment</p>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-6">
+<div class="col-content flex-layout center_hozital no-wrap"><em class="icon icon-help-center" aria-hidden="true"><span class="hidden">icon icon-help-center</span></em>
+<div class="content">
+<h6 class="footer-title uppercase">24/7 Help Center</h6>
+<p>Dedicated 24/7 support</p>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 02 Banner Top]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_02_banner_top]]></identifier>
+      <content><![CDATA[<div class="banner section">
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img "><img src="{{media url="wysiwyg/banner-1_1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Big Sale </span><br><span style="color: #ffffff;">Drilling Machine </span></a></h3>
+<p class="size-18 get-size-vw"><span style="color: #ffffff;">Up To -30%</span></p>
+</div>
+</div>
+<div class="col-banner left center shadow radius absolute-content-image">
+<div class="banner-img "><img src="{{media url="wysiwyg/banner-2_1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular get-size-vw"><a href="#"><span style="color: #ffffff;">Sale All</span><br><span style="color: #ffffff;">Contractor Tools</span></a></h3>
+<p class="size-18 get-size-vw"><span style="color: #ffffff;">Up To -20%</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Tool 02 Banner Middle]]></title>
+      <identifier><![CDATA[bluesky_dukamarket_tool_02_banner_middle]]></identifier>
+      <content><![CDATA[<div class="banner section banner-top owl-carousel owl-theme" data-items="3" data-bigdesktop="3" data-smalldesktop="3" data-bigtablet="2" data-tablet="2" data-smalltablet="2" data-mobile="1" data-margin="20" data-loop="true" data-center="false" data-mousedrag="false" data-touchdrag="true" data-stagepadding="" data-nav="false" data-navnext="" data-navprev="" data-rewind="false" data-dots="true" data-autoplay="false">
+<div class="col-banner left center left center shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-middle-1_1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Nice Pick</span><br><span style="color: #ffffff;">Protective Mask</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Sale 20% Off first Order</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-middle-2_1.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Light Ring</span><br><span style="color: #ffffff;">Hand Drill Driver</span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Hurry, quantities are Limited</span></p>
+</div>
+</div>
+<div class="col-banner left center middle shadow radius absolute-content-image">
+<div class="banner-img"><img src="{{media url="wysiwyg/banner-middle-3.png"}}" alt=""></div>
+<div class="content">
+<h3 class="size-24 regular"><a href="#"><span style="color: #ffffff;">Sale Off</span><br><span style="color: #ffffff;">Battery Charger </span></a></h3>
+<p class="size-16"><span style="color: #ffffff;">Buy now to get Free Delivery</span></p>
+</div>
+</div>
+</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Footer download app]]></title>
+      <identifier><![CDATA[default_footer_download_app]]></identifier>
+      <content><![CDATA[<h4 class="footer-title">Download App</h4>
+<div class="footer-contents">
+<p>Dukamarket App is now available on App Store &amp; Google Play. <br>Get it now.</p>
+<div class="flex-layout download-app no-wrap"><a href="#"><img src="{{media url="wysiwyg/app-store.png"}}" alt="App store"></a><a href="#"><img src="{{media url="wysiwyg/google-play.png"}}" alt="Google play"></a></div>
+{{widget type="Magento\Cms\Block\Widget\Block" template="widget/static_block/default.phtml" block_id="default_social_link"}}</div>]]></content>
+    </item>
+    <item>
+      <title><![CDATA[Social link]]></title>
+      <identifier><![CDATA[default_social_link]]></identifier>
+      <content><![CDATA[<ul class="social-link">
+<li><a style="background-color: #3c5b9b;" href="#"><span class="fab fa-facebook-f"><span class="text">Facebook</span></span></span></a></li>
+<li><a style="background-color: #40c1df;" href="#"><span class="fab fa-twitter"><span class="text">twitter</span></span></span></a></li>
+<li><a style="background-color: #c619b8;" href="#"><span class="fab fa-instagram"><span class="text">instagram</span></span></span></a></li>
+<li><a style="background-color: #ed3c32;" href="#"><span class="fab fa-google-plus-g"><span class="text">google-plus-g</span></span></span></a></li>
+<li><a style="background-color: #eb8314;" href="#"><span class="fas fa-rss"><span class="text">rss</span></span></span></a></li>
+<li><a style="background-color: #c72982;" href="#"><span class="fab fa-dribbble"><span class="text">dribbble</span></span></span></a></li>
+</ul>]]></content>
+    </item>
+  </blocks>
+</root>
